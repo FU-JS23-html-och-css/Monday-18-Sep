@@ -1,7 +1,7 @@
 # 13-september
 
 ## Övningar
-Fredagens övning https://gist.github.com/Andreas-Zocom/e4c86d2cc749afa946a3d07db95ebaba
+Dagens övning [https://gist.github.com/Andreas-Zocom/e4c86d2cc749afa946a3d07db95ebaba](https://gist.github.com/Andreas-Zocom/1c214b6e5ac879e3c05ae48a2003de24)
 ## Artiklar
 
 HTML element: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
