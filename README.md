@@ -4,7 +4,7 @@
 Dagens övning https://gist.github.com/Andreas-Zocom/1c214b6e5ac879e3c05ae48a2003de24
 ## Artiklar
 
-Git: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+Git: https://coderefinery.github.io/git-intro/basics/
 
 ## Videor
 
